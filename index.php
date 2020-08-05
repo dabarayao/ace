@@ -6,7 +6,7 @@
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
   <title>Flexor Bootstrap Template - Index</title>
-  <meta content="" name="descriptison">
+  <meta content="" name="description">
   <meta content="" name="keywords">
 
   <!-- Favicons -->
@@ -37,21 +37,7 @@
 
 <body>
 
-  <!-- ======= Top Bar ======= -->
-  <section id="topbar" class="d-none d-lg-block">
-    <div class="container d-flex">
-      <div class="contact-info mr-auto">
-        <ul>
-          <li><i class="icofont-envelope"></i><a href="mailto:contact@example.com">info@association-ace.net</a></li>
-          <li><i class="icofont-phone"></i> +225 49 67 82 34</li>
-        </ul>
 
-      </div>
-      <div class="cta">
-        <a href="#about" class="scrollto">Adhérez</a>
-      </div>
-    </div>
-  </section>
 
   <?php 
   
@@ -386,7 +372,7 @@ De plus Les banques vous proposent des crédits tout comme les microcrédits, ma
                 <li>Budget : <b>50 000 FCFA</b> Maximun</li>
               </ul>
               <div class="btn-wrap">
-                <a href="#" class="btn-buy">Ace$h</a>
+                <a href="#" class="btn-buy">Abonner</a>
               </div>
             </div>
           </div>
@@ -400,7 +386,7 @@ De plus Les banques vous proposent des crédits tout comme les microcrédits, ma
                 <li>Budget : <b>100 000 FCFA</b> Maximun</li>
               </ul>
               <div class="btn-wrap">
-                <a href="#" class="btn-buy">Ace$h</a>
+                <a href="#" class="btn-buy">Abonner</a>
               </div>
             </div>
           </div>

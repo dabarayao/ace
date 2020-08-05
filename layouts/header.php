@@ -1,3 +1,19 @@
+  <!-- ======= Top Bar ======= -->
+  <section id="topbar" class="d-none d-lg-block">
+    <div class="container d-flex">
+      <div class="contact-info mr-auto">
+        <ul>
+          <li><i class="icofont-envelope"></i><a href="mailto:contact@example.com">info@association-ace.net</a></li>
+          <li><i class="icofont-phone"></i> +225 49 67 82 34</li>
+        </ul>
+
+      </div>
+      <div class="cta">
+        <a href="#about" class="scrollto">Adhérez</a>
+      </div>
+    </div>
+  </section>
+
 <!-- ======= Header ======= -->
 <header id="header" style="height: 80px;">
   <div class="container d-flex">
@@ -10,13 +26,12 @@
 
     <nav class="nav-menu d-none d-lg-block">
       <ul>
-        <li class="active"><a href="#">Accueil</a></li>
-        <li><a href="#">Présentation</a></li>
-        <li><a href="#">Nos Réalisations</a></li>
+        <li class="active"><a href="index.php">Accueil</a></li>
+        <li><a href="pres.php">Présentation</a></li>
+        <li><a href="res.php">Nos Réalisations</a></li>
         <li><a href="#">Paternship</a></li>
-        <li><a href="#">Forum</a></li>
         <li><a href="#">Connexion</a></li>
-        <li><a href="#">Contact</a></li>
+        <li><a href="contact.php">Contact</a></li>
 
       </ul>
     </nav><!-- .nav-menu -->
