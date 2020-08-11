@@ -28,10 +28,8 @@
       <ul>
         <li class="active"><a href="index.php">Accueil</a></li>
         <li><a href="pres.php">Présentation</a></li>
-        <li><a href="res.php">Nos Réalisations</a></li>
-        <li><a href="#">Paternship</a></li>
-        <li><a href="#">Connexion</a></li>
-        <li><a href="contact.php">Contact</a></li>
+        <li><a href="partn.php">Paternship</a></li>
+        <li><a href="index.php#contact">Contact</a></li>
 
       </ul>
     </nav><!-- .nav-menu -->
